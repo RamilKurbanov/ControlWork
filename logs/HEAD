@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 a119bc7afea85d4dc6b702af182f5fb406804e92 Ramil <ramilkurbanov666@gmail.com> 1669900858 +0300	commit (initial): dotnet
+a119bc7afea85d4dc6b702af182f5fb406804e92 a119bc7afea85d4dc6b702af182f5fb406804e92 Ramil <ramilkurbanov666@gmail.com> 1669900881 +0300	checkout: moving from master to ex1
+a119bc7afea85d4dc6b702af182f5fb406804e92 c6862e593078d0e42960c5a6ae3a48e14b0da77e Ramil <ramilkurbanov666@gmail.com> 1669900941 +0300	commit: часть кода
+c6862e593078d0e42960c5a6ae3a48e14b0da77e a119bc7afea85d4dc6b702af182f5fb406804e92 Ramil <ramilkurbanov666@gmail.com> 1669900954 +0300	checkout: moving from ex1 to master
+a119bc7afea85d4dc6b702af182f5fb406804e92 c6862e593078d0e42960c5a6ae3a48e14b0da77e Ramil <ramilkurbanov666@gmail.com> 1669900959 +0300	checkout: moving from master to ex1
+c6862e593078d0e42960c5a6ae3a48e14b0da77e df3fe37538dc64805df421b1185e7aa5ba3e33d1 Ramil <ramilkurbanov666@gmail.com> 1669902044 +0300	commit: дописанная и разобранная программа
+df3fe37538dc64805df421b1185e7aa5ba3e33d1 a119bc7afea85d4dc6b702af182f5fb406804e92 Ramil <ramilkurbanov666@gmail.com> 1669902071 +0300	checkout: moving from ex1 to master
+a119bc7afea85d4dc6b702af182f5fb406804e92 df3fe37538dc64805df421b1185e7aa5ba3e33d1 Ramil <ramilkurbanov666@gmail.com> 1669902102 +0300	checkout: moving from master to ex1
+df3fe37538dc64805df421b1185e7aa5ba3e33d1 a119bc7afea85d4dc6b702af182f5fb406804e92 Ramil <ramilkurbanov666@gmail.com> 1669902448 +0300	checkout: moving from ex1 to master
+a119bc7afea85d4dc6b702af182f5fb406804e92 df3fe37538dc64805df421b1185e7aa5ba3e33d1 Ramil <ramilkurbanov666@gmail.com> 1669902458 +0300	checkout: moving from master to ex1
+df3fe37538dc64805df421b1185e7aa5ba3e33d1 a119bc7afea85d4dc6b702af182f5fb406804e92 Ramil <ramilkurbanov666@gmail.com> 1669902478 +0300	checkout: moving from ex1 to master
+a119bc7afea85d4dc6b702af182f5fb406804e92 df3fe37538dc64805df421b1185e7aa5ba3e33d1 Ramil <ramilkurbanov666@gmail.com> 1669902485 +0300	merge ex1: Fast-forward
+df3fe37538dc64805df421b1185e7aa5ba3e33d1 6651ad8cfa2a6f2616edc4a4cc10f5b2019fb17d Ramil <ramilkurbanov666@gmail.com> 1669906934 +0300	commit: last commit
